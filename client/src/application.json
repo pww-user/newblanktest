@@ -1,0 +1,13 @@
+{
+  "name": "newblanktest",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "8e44384c",
+  "theme": "Anchor",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "description": "",
+  "creatorId": "admin"
+}
